@@ -2,7 +2,9 @@
     "name": "low-code-hour-test",
     "description": "Low-Code Hour Test Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-ngrok": "0.1.1"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
